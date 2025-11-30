@@ -7,6 +7,10 @@ A modern, full-stack employee attendance tracking system with role-based access 
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-9.0.0-47A248?logo=mongodb)
 
+### 🌐 Live Preview
+
+**Project Preview:** [https://emp-attendance-system.netlify.app/](https://emp-attendance-system.netlify.app/)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -822,6 +826,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
+
+**Name:** Shivani G  
+**College:** PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY  
+**Contact:** 8300825754
 
 Built with ❤️ for efficient attendance management
 
