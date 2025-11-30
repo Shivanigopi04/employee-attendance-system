@@ -1,12 +1,12 @@
-# Dependency folders
+# Node modules
 node_modules/
 
 # Environment variables
 .env
-frontend/.env
 backend/.env
 
-# Build output
+
+# Build files
 frontend/build/
 backend/dist/
 
@@ -16,10 +16,11 @@ yarn-debug.log*
 yarn-error.log*
 *.log
 
-# IDE files
-.vscode/
-.idea/
-
-# System files
+# System Files
 .DS_Store
 Thumbs.db
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.sublime-workspace
