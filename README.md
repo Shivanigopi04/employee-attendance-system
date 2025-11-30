@@ -437,6 +437,9 @@ npm start
 ![Reports](screenshots/reports-csv.png)
 *Report generation interface with date range picker (start date and end date), employee filter dropdown, filtered attendance data table, and Export to CSV button for downloading reports.*
 
+### CSV Output
+![CSV](./screenshots/downloaded-csv.png)
+
 ### Profile Page
 ![Profile](screenshots/manager-profile.png)
 *User profile page displaying personal information (name, email, employee ID, department, role, member since) with Edit Profile button. Edit mode includes form fields for updating profile details and optional password change.*
