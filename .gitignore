@@ -1,26 +1,51 @@
-# Node modules
+###############################
+# Node.js Dependencies
+###############################
 node_modules/
+*/node_modules/
 
-# Environment variables
+###############################
+# Environment Variables
+###############################
 .env
+*.env
 backend/.env
+frontend/.env
 
-
-# Build files
+###############################
+# Build Output
+###############################
 frontend/build/
+frontend/dist/
 backend/dist/
+backend/build/
 
+###############################
 # Logs
+###############################
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
 *.log
 
-# System Files
+###############################
+# System / OS Files
+###############################
 .DS_Store
 Thumbs.db
 
-# IDE / Editor Files
+###############################
+# Editor / IDE settings
+###############################
 .vscode/
 .idea/
 *.sublime-workspace
+*.sublime-project
+
+###############################
+# Misc
+###############################
+*.zip
+*.tar
+*.gz
