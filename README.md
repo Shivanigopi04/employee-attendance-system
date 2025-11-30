@@ -434,11 +434,11 @@ npm start
 *Comprehensive attendance table showing all employee records with filters for employee name, date, and status. Displays employee details, check-in/check-out times, status badges, and total hours worked.*
 
 ### Reports Page
-![Reports](screenshots/reports.png)
+![Reports](screenshots/reports-csv.png)
 *Report generation interface with date range picker (start date and end date), employee filter dropdown, filtered attendance data table, and Export to CSV button for downloading reports.*
 
 ### Profile Page
-![Profile](screenshots/profile.png)
+![Profile](screenshots/manager-profile.png)
 *User profile page displaying personal information (name, email, employee ID, department, role, member since) with Edit Profile button. Edit mode includes form fields for updating profile details and optional password change.*
 
 
